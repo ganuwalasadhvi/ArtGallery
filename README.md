@@ -1,1 +1,1 @@
-# sample
+# Art Gallery Management
